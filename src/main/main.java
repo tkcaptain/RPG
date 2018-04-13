@@ -27,6 +27,7 @@ public class main {
 
 
 		//敵があらわれた！
+		System.out.println("gitty");
 		System.out.println( lastBoss.getName() + " が あらわれた！");
 		System.out.println( monster.getName() + " が あらわれた！");
 
