@@ -7,7 +7,7 @@ public class Monster extends Human{
 		super.setGender(1);
 		super.setLength(710);
 		super.setWeight(1200);
-		super.setVitality(100);
+		super.setVitality(200);
 		super.setMagic(0);
 	}
 
