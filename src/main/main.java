@@ -27,7 +27,6 @@ public class main {
 
 
 		//敵があらわれた！
-		System.out.println("gitty");
 		System.out.println( lastBoss.getName() + " が あらわれた！");
 		System.out.println( monster.getName() + " が あらわれた！");
 
@@ -131,7 +130,6 @@ public class main {
 			wizard.magicAttack(lastBoss);		//魔法使いの攻撃
 			lastBoss.specialEvilAttack(yuusya);	//ラスボスの攻撃
 			crelic.healingMagic(yuusya);		//僧侶が勇者を回復
-
 			//回復アイテムを使用
 			System.out.println(yuusya.getName() + " は やくそう　をつかった");
 			yuusya.eatFood("やくそう");
