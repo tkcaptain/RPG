@@ -7,7 +7,7 @@ public class LastBoss extends Human{
 		super.setGender(1);
 		super.setLength(210);
 		super.setWeight(120);
-		super.setVitality(500);
+		super.setVitality(400);
 		super.setMagic(40);
 	}
 
